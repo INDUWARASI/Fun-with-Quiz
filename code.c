@@ -174,7 +174,7 @@ int main() {
    else if (score >= 9)
        printf("👏 Great job! You know your basics.\n");
    else if (score >= 5)
-       printf("🙂 Not bad, keep practicing.\n");
+       printf("🙂 Good effort! A bit more practice and you'll master C.\n");
    else
        printf("💪 Don’t give up! Study and try again.\n");
 
