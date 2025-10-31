@@ -1,6 +1,11 @@
 #include <stdio.h>
 
-// Main function - program execution starts here
+// Main Function
+// ------------------------------------------------------------
+// Entry point of the program where execution begins.
+// Initializes variables, runs the quiz, calculates scores,
+// and displays results to the user.
+
 int main() {
    char answer;           // stores user input for each question
    int score = 0;         // keeps track of correct answers
