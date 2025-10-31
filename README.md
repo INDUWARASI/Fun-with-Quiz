@@ -15,8 +15,7 @@ Create and answer multiple-choice questions to test your general knowledge!
 
 ⚡ Instant Feedback – Get immediate responses after each question.
 
-👶 Beginner-Friendly – Perfect mini-project for learning the basics of C programming.
-
+👶 Beginner-Friendly – A perfect mini-project to learn and apply the basics of C programming in a practical, hands-on way!
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
