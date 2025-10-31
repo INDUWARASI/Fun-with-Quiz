@@ -5,7 +5,7 @@
 
 🧠 Features
 
-🎮 Interactive Console Quiz –Enjoy an engaging, real-time question-and-answer experience directly through the terminal interface.
+🎮 Interactive Console Quiz –Enjoy an engaging, real-time question-and-answer experience directly through the terminal interface..
 
 📝 Multiple-Choice Questions – Select the correct option (A, B, C, or D).
 
